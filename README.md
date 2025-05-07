@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # 👋 Bonjour, je suis Alex Rodrigue Ndouna
 
-🎓 **PhD Student en Méthodes Formelles**
-👨‍💻 **Ingénieur en Génie Logiciel**
-🧠 Passionné par l’Intelligence Artificielle, la Vérification Formelle et les Systèmes Temps Réel
-🌍 Basé au Cameroun
-📬 **Contact** : [alex.ndouna@email.com](mailto:ndounalex@yahoo.fr)
+- 🎓 **PhD Student en Méthodes Formelles**
+- 👨‍💻 **Ingénieur en Génie Logiciel**
+- 🧠 Passionné par l’Intelligence Artificielle, la Vérification Formelle et les Systèmes Temps Réel
+- 🌍 Basé au Canada
+- 📬 **Contact** : [ndounalex@yahoo.fr](mailto:ndounalex@yahoo.fr)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ndounalex\&label=Vues%20du%20profil\&color=0e75b6\&style=flat)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ndounalex\&show_icons=true\&theme=default)
