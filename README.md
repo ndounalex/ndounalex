@@ -14,3 +14,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Bonjour, je suis Alex Rodrigue Ndouna
+
+🎓 **PhD Student en Méthodes Formelles**
+👨‍💻 **Ingénieur en Génie Logiciel**
+🧠 Passionné par l’Intelligence Artificielle, la Vérification Formelle et les Systèmes Temps Réel
+🌍 Basé au Cameroun
+📬 **Contact** : [alex.ndouna@email.com](mailto:alex.ndouna@email.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=alexndouna\&label=Vues%20du%20profil\&color=0e75b6\&style=flat)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexndouna\&show_icons=true\&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexndouna\&layout=compact)
+
+---
+
+### 🔧 Compétences techniques
+
+* ⚛️ **React.js**, 🐍 **Python**, 🧱 **.NET Core**
+* ⏱ **Modélisation du temps** dans les systèmes embarqués
+* 📐 **Méthodes formelles** : AADL, Cheddar, Model Checking
+* 🔄 Traduction IA multilingue adaptée à la localisation du récepteur
+
+---
+
+### 📈 Quelques projets
+
+* 🔧 Simulateur d’exécution cyclique de tâches temps réel avec Cheddar (XML & AADL)
+* 🌐 Système de messagerie multilingue adaptatif par IA
+* 📊 Analyse formelle de systèmes temps réel critiques (projet de doctorat)
+
+---
+
+### 🌍 Me retrouver
+
+* [LinkedIn](https://linkedin.com/in/tonprofil)
+* [Twitter](https://twitter.com/tonprofil)
+* [Site personnel](https://tonsite.dev) *(optionnel)*
+
+---
+
+> *“Confie au Seigneur ce que tu fais, et tes projets réussiront.” – Proverbes 16:3*
+
