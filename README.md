@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 👨‍💻 **Ingénieur en Génie Logiciel**
 🧠 Passionné par l’Intelligence Artificielle, la Vérification Formelle et les Systèmes Temps Réel
 🌍 Basé au Cameroun
-📬 **Contact** : [alex.ndouna@email.com](mailto:alex.ndouna@email.com)
+📬 **Contact** : [alex.ndouna@email.com](mailto:ndounalex@yahoo.fr)
 
-![Profile Views](https://komarev.com/ghpvc/?username=alexndouna\&label=Vues%20du%20profil\&color=0e75b6\&style=flat)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexndouna\&show_icons=true\&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexndouna\&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=ndounalex\&label=Vues%20du%20profil\&color=0e75b6\&style=flat)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ndounalex\&show_icons=true\&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndounalex&layout=compact)
 
 ---
 
